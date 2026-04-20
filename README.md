@@ -6,7 +6,7 @@
 - documentation structurée, tutoriels pas à pas
 - modèles réutilisables et identité visuelle claire.
 >Le nom **`MacraSG`** rend hommage à :
-- **```Sabine GOMEZ (SG)```**, 
+- **```xxxxxx xxxxx (SG)```**, 
 - dont les initiales deviennent la signature du projet.
 
 ---
