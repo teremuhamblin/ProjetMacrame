@@ -1,26 +1,7 @@
-Parfait Teremu — je vais modifier ton fichier en intégrant toutes mes dernières propositions, c’est‑à‑dire :
-
-- une version enrichie,  
-- avec plus de nœuds,  
-- des schémas ASCII améliorés,  
-- une structure plus professionnelle,  
-- une section avancée,  
-- une section ressources,  
-- une section contributions,  
-- une cohérence totale avec MacraSG,  
-- et une mise en page premium.
-
-Voici la version finale, prête à être placée dans :
-
+`###### Encyclopedie.md * markdown
 `
-docs/encyclopedie-des-noeuds.md
-`
-
----
-
-📘 docs/encyclopedie-des-noeuds.md
-
-Encyclopédie complète des nœuds de macramé — MacraSG (version enrichie)
+>Encyclopédie complète des nœuds de macramé
+# MacraSG
 
 `markdown
 
