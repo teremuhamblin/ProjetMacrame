@@ -1,6 +1,7 @@
 ###### README.md * markdown
 # 📚 Documentation
 ```text
+- Encyclopédie.md  — Encyclopedie des nœuds de macramé.
 - introduction.md — Présentation du projet  
 - materiel.md — Matériel nécessaire  
 - noeuds-de-base.md — Nœuds fondamentaux  
