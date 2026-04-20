@@ -19,12 +19,16 @@
 ---
 
 ### 📁 Structure du dépôt
-
 ```text
 MacraSG/
+│
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── SECURITY.md
+├── CHANGELOG.md
 │
 ├── docs/
 │   ├── introduction.md
@@ -35,7 +39,15 @@ MacraSG/
 │   ├── galerie.md
 │   └── faq.md
 │
-└── src/
-    └── patterns/
-        ├── pattern-basic.md
-        └── pattern-advanced.md
+├── src/
+│   └── patterns/
+│       ├── pattern-basic.md
+│       └── pattern-advanced.md
+│
+└── .github/
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.md
+    │   └── feature_request.md
+    ├── PULL_REQUEST_TEMPLATE.md
+    └── FUNDING.yml
+```
