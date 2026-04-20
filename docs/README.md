@@ -1,6 +1,8 @@
 ###### README.md * markdown
 # 📚 Documentation
 ```text
+- Nœud débutant — Nœud pour débuter
+- Glossaire du macramé — Glossaire te terme du macramé 
 - Encyclopédie.md  — Encyclopedie des nœuds de macramé.
 - introduction.md — Présentation du projet  
 - materiel.md — Matériel nécessaire  
