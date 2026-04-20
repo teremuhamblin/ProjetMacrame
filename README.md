@@ -14,11 +14,14 @@
 ### 🎯 Objectifs du projet
 - Proposer un `**projet de macramé mural complet**`, documenté de A à Z  
 - Offrir une **`base pédagogique`** pour apprendre les nœuds essentiels  
-- Servir de **`modèle de dépôt GitHub`** pour des projets créatifs documentés
-
----
+- Servir de **`modèle de dépôt GitHub`** pour des projets créatifs ---
 
 ### 📁 Structure du dépôt
+```text
+docs/        → Documentation complète
+src/         → Patterns (modèles)
+.github/     → Templates GitHub (issues, PR)
+```
 ```text
 MacraSG/
 │
