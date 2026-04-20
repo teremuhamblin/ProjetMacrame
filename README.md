@@ -1,18 +1,41 @@
 ###### README.md * markdown
 # 🧵 MacraSG
->Projet Macramé signé SG
+>Projet Macramé signé `SG` :
+- projet dédié à l’art du `macramé` :
+- pensé comme un vrai projet GitHub :  
+- documentation structurée, tutoriels pas à pas
+- modèles réutilisables et identité visuelle claire.
+>Le nom **`MacraSG`** rend hommage à :
+- **```Sabine GOMEZ (SG)```**, 
+- dont les initiales deviennent la signature du projet.
 
-MacraSG est un projet créatif dédié à l’art du macramé, conçu pour offrir une documentation claire, structurée et accessible.  
-Le nom MacraSG rend hommage à SG qui devient la signature du projet.
+---
 
-### 📚 Documentation
-Toute la documentation se trouve dans le dossier `docs/`.
+### 🎯 Objectifs du projet
+- Proposer un `**projet de macramé mural complet**`, documenté de A à Z  
+- Offrir une **`base pédagogique`** pour apprendre les nœuds essentiels  
+- Servir de **`modèle de dépôt GitHub`** pour des projets créatifs documentés
 
-### 🎯 Objectif
-Créer un macramé mural décoratif complet, adapté aux débutants comme aux passionnés.
+---
 
-### 🤝 Contributions
-Ouvert aux améliorations, nouveaux modèles et idées créatives.
+### 📁 Structure du dépôt
 
-### 📜 Licence
-The Unlicense 
+```text
+MacraSG/
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── introduction.md
+│   ├── materiel.md
+│   ├── noeuds-de-base.md
+│   ├── tutoriel-projet.md
+│   ├── schema-technique.md
+│   ├── galerie.md
+│   └── faq.md
+│
+└── src/
+    └── patterns/
+        ├── pattern-basic.md
+        └── pattern-advanced.md
