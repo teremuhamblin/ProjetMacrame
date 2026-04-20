@@ -9,13 +9,13 @@
 # ------------------------------------------------------------
 
 # Ko‑fi — idéal pour les projets créatifs
-ko_fi: macrasg
+#ko_fi: macrasg
 
 # Patreon — contenu exclusif (patterns premium, tutoriels avancés)
-patreon: macrasg
+#patreon: macrasg
 
 # Liberapay — soutien libre et récurrent
-liberapay: macrasg
+#liberapay: macrasg
 
 
 # ------------------------------------------------------------
@@ -23,10 +23,10 @@ liberapay: macrasg
 # ------------------------------------------------------------
 custom:
   # Buy Me a Coffee — alternative simple et efficace
-  - https://www.buymeacoffee.com/macrasg
+  #- https://www.buymeacoffee.com/macrasg
 
   # Page de soutien personnelle (à créer si tu veux)
-  - https://macrasg.art/soutenir
+  #- https://macrasg.art/soutenir
 
 
 # ------------------------------------------------------------
@@ -41,10 +41,10 @@ custom:
   - https://www.paracordguild.com/macrame-knots
 
   # Tutoriels vidéo (YouTube)
-  - https://www.youtube.com/results?search_query=macrame+tutorial
+  #- https://www.youtube.com/results?search_query=macrame+tutorial
 
   # Ressources créatives et idées
-  - https://www.craftpassion.com/category/craft/macrame
+  #- https://www.craftpassion.com/category/craft/macrame
 
 # ------------------------------------------------------------
 #  Signature du projet
