@@ -1,7 +1,41 @@
 
-# 🎨 Identité visuelle
+# 🎨 Palette de Couleur
+>Palette douce, naturelle, inspirée des fibres et matériaux artisanaux.
+
+---
+
+## 🎨 Palette Principale
+
+| Nom | Couleur | Hex | Usage |
+|-----|---------|------|--------|
+| Sable | 🟫 | #D9C7A3 | Fond, sections larges |
+| Lin | 🤎 | #EDE5D6 | Arrière‑plans légers |
+| Terracotta | 🧡 | #C96F4A | Accents, titres |
+| Bois Foncé | 🟤 | #5A4633 | Texte principal |
+| Corde Naturelle | 🟨 | #F2E8C9 | Surfaces secondaires |
+
+---
+
+## 🎨 Palette Secondaire
+
+| Nom | Hex | Usage |
+|-----|------|--------|
+| Sauge Douce | #A8B8A5 | Éléments décoratifs |
+| Argile | #BFA58A | Bordures, séparateurs |
+| Nuit Douce | #2F2F2F | Contraste, footer |
+
+---
+
+## Règles d’utilisation
+- **Fond principal** : Lin (#EDE5D6)
+- **Texte** : Bois Foncé (#5A4633)
+- **Accent** : Terracotta (#C96F4A)
+- **Jamais plus de 2 couleurs fortes par écran/page**
+
+---
+
 ```text
-- Couleur principale : #D9C7A3 (corde naturelle)  
+- Couleur base : #D9C7A3 (corde naturelle)  
 - Couleur secondaire : #8B5A2B (bois)  
 - Accent : #7A8F6A (vert sauge)  
 - Typographies :  
