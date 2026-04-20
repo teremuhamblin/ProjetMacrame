@@ -17,7 +17,8 @@
 - Servir de **`modèle de dépôt GitHub`** pour des projets créatifs ---
 
 ### 📁 Structure du dépôt
-```text
+```text 
+designs/     → Identité visuel, image, logo et autres
 docs/        → Documentation complète
 src/         → Patterns (modèles)
 .github/     → Templates GitHub (issues, PR)
@@ -32,7 +33,13 @@ MacraSG/
 ├── CODE_OF_CONDUCT.md
 ├── SECURITY.md
 ├── CHANGELOG.md
+└── .github/
 │
+├── designs/
+│   ├── identite-visuel.md
+│   ├── x.xx
+│   ├── x.xx
+│   ├── x.xx
 ├── docs/
 │   ├── introduction.md
 │   ├── materiel.md
